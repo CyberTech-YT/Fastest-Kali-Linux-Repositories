@@ -1,4 +1,4 @@
-# Fastest-Kali-Linux-Repositories
+# Fast, Secure And Stable Kali Linux Repositories
 
 Normally The Speed Of Kali Linux Update, Upgrade & Tool Download Is Slow.<br>
 <br>
